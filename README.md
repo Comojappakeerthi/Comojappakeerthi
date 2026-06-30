@@ -63,20 +63,19 @@ I'm **Comojappa Keerthi**, currently a **3rd-year B.Tech student** specializing 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Comojappakeerthi&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=2F2F2F&text_color=2F2F2F&icon_color=555555" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Comojappakeerthi&theme=default&hide_border=true&background=FFFFFF&ring=555555&fire=555555&currStreakLabel=2F2F2F" height="170" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Comojappakeerthi&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=2F2F2F&text_color=2F2F2F" height="170" />
 </p>
 
 ---
 
-### 🏆 GitHub Trophies
+### 📈 Current Goals
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Comojappakeerthi&theme=flat&no-frame=true&margin-w=10&column=7" />
-</p>
+- ✔ Strengthening Data Structures and Algorithms
+- ✔ Building production-ready AI applications
+- ✔ Enhancing Full-Stack development expertise
+- ✔ Improving problem-solving skills through regular coding practice
+- ✔ Gaining hands-on experience through internships, hackathons, and real-world projects
+- ✔ Building a strong portfolio that showcases impactful projects
 
 ---
 
@@ -85,6 +84,9 @@ I'm **Comojappa Keerthi**, currently a **3rd-year B.Tech student** specializing 
 <p>
   <a href="https://www.linkedin.com/in/keerthi-comojappa-875b3a41a/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Comojappakeerthi">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
