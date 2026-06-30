@@ -24,12 +24,6 @@ I'm **Comojappa Keerthi**, currently a **3rd-year B.Tech student** specializing 
 
 ---
 
-### 💭 My Philosophy
-
-> *"I believe that true understanding comes from building, experimenting, and learning through hands-on experience. Every project is an opportunity to grow, innovate, and turn ideas into reality."*
-
----
-
 ### 🛠️ Tech Stack
 
 **Languages**
@@ -59,23 +53,20 @@ I'm **Comojappa Keerthi**, currently a **3rd-year B.Tech student** specializing 
 
 ---
 
-### 📊 GitHub Stats
+### 📈 Current Learning Goals
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Comojappakeerthi&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=2F2F2F&text_color=2F2F2F&icon_color=555555" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Comojappakeerthi&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=2F2F2F&text_color=2F2F2F" height="170" />
-</p>
+- 🧮 Strengthening Data Structures and Algorithms
+- 🤖 Building production-ready AI applications
+- 🌐 Enhancing Full-Stack development expertise
+- 🧩 Improving problem-solving skills through regular coding practice
+- 🚀 Gaining hands-on experience through internships, hackathons, and real-world projects
+- 📁 Building a strong portfolio that showcases impactful projects
 
 ---
 
-### 📈 Current Goals
+### 💭 My Philosophy
 
-- ✔ Strengthening Data Structures and Algorithms
-- ✔ Building production-ready AI applications
-- ✔ Enhancing Full-Stack development expertise
-- ✔ Improving problem-solving skills through regular coding practice
-- ✔ Gaining hands-on experience through internships, hackathons, and real-world projects
-- ✔ Building a strong portfolio that showcases impactful projects
+> *"I believe that true understanding comes from building, experimenting, and learning through hands-on experience. Every project is an opportunity to grow, innovate, and turn ideas into reality."*
 
 ---
 
